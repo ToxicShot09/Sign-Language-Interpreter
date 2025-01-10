@@ -13,8 +13,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sign-language-recognition.git
-   cd sign-language-recognition
+   git clone https://github.com/ToxicShot09/Sign-Language-Interpreter.git
+   cd Sign-Language-Interpreter
    ```
 
 2. Install the required dependencies:
